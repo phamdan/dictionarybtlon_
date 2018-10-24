@@ -1,0 +1,785 @@
+aa:aa
+UET	: Viết tắt của University of Engineering and Technology
+a bit	: một chút, một tý
+a few	: một ít, một vài
+a little	: nhỏ, một ít
+abandon	: bỏ, từ bỏ
+abandoned	: bị bỏ rơi, bị ruồng bỏ
+ability	: khả năng, năng lực
+able	: có năng lực, có tài
+about	: khoảng, về
+above	: ở trên, lên trên
+abroad	: ở, ra nước ngoài, ngoài trời
+absence	: sự vắng mặt
+absent	: vắng mặt, nghỉ
+absolute	: tuyệt đối, hoàn toàn
+absolutely	: tuyệt đối, hoàn toàn
+absorb	: thu hút, hấp thu, lôi cuốn
+abuse	: lộng hành, lạm dụng
+academic	: thuộc học viện, đh, viện hàn lâm
+accent	: trọng âm, dấu trọng âm
+accept	: chấp nhận, chấp thuận
+acceptable	: có thể chấp nhận, chấp thuận
+access	: lối, cửa, đường vào
+accident	: tai nạn, rủi ro
+accidental	: tình cờ, bất ngờ
+accidentally	: tình cờ, ngẫu nhiên
+accommodation	: sự thích nghi, điều tiết
+accompany	: đi theo, đi cùng, kèm theo
+according to	: theo, y theo
+account	: tài khoản, kế toán; tính toán, tính đến
+accurate	: đúng đắn, chính xác, xác đáng
+accurately	: đúng đắn, chính xác
+accuse	: tố cáo, buộc tội, kết tội
+achieve	: đạt được, dành được
+achievement	: thành tích, thành tựu
+acid	: axit
+acknowledge	: công nhận, thừa nhận
+acquire	: dành được, đạt được, kiếm được
+across	: qua, ngang qua
+act	: hành động, hành vi, cử chỉ, đối xử
+action	: hành động, hành vi, tác động
+active	: tích cực hoạt động, nhanh nhẹn
+actor	: diễn viên
+actress	: diễn viên
+actual	: thực tế, có thật
+actually	: hiện nay, hiện tại
+adapt	: tra, lắp vào
+add	: cộng, thêm vào
+addition	: tính cộng, phép cộng
+additional	: thêm vào, tăng thêm
+address	: địa chỉ, đề địa chỉ
+adequate	: đầy, đầy đủ
+adequately	: tương xứng, thỏa đáng
+adjust	: sửa lại cho đúng, điều chỉnh
+admiration	: sự khâm phục,người kp, thán phục
+admire	: khâm phục, thán phục
+admit	: nhận vào, cho vào, kết hợp
+adopt	: nhận làm con nuôi, bố mẹ nuôi
+adult	: người lớn, người trưởng thành; trưởng thành
+advance	: sự tiến bộ, tiến lên; đưa lên, đề xuất
+advanced	: tiên tiến, tiến bộ, cấp cao
+advantage	: sự thuận lợi, lợi ích, lợi thế
+adventure	: sự phiêu lưu, mạo hiểm
+advertise	: báo cho biết, báo cho biết trước
+advertisement	: quảng cáo
+advertising	: sự quảng cáo, nghề quảng cáo
+advice	: lời khuyên, lời chỉ bảo
+advise	: khuyên, khuyên bảo, răn bảo
+affair	: việc
+affect	: làm ảnh hưởng, tác động đến
+afford	: có thể, có đủ khả năng, điều kiện
+afraid	: sợ, sợ hãi, hoảng sợ
+after	: sau, đằng sau, sau khi
+afternoon	: buổi chiều
+afterwards	: sau này, về sau, rồi thì, sau đấy
+again	: lại, nữa, lần nữa
+against	: chống lại, phản đối
+age	: tuổi
+aged	: già đi
+agency	: tác dụng, lực; môi giới, trung gian
+agent	: đại lý, tác nhân
+aggressive	: xâm lược, hung hăng
+ago	: trước đây
+agree	: đồng ý, tán thành
+agreement	: sự đồng ý, tán thành; hiệp định, hợp đồng
+ahead	: trước, về phía trước
+aid	: sự giúp đỡ; thêm vào, phụ vào
+aim	: sự nhắm , mục tiêu, ý định; nhắm, tập trung, hướng vào
+air	: không khí, bầu không khí, không gian
+aircraft	: máy bay, khí cầu
+alarm	: báo động, báo nguy
+alarming	: làm lo sợ, làm hốt hoảng, làm sợ hãi
+alcohol	: rượu cồn
+alcoholic	: rượu; người nghiện rượu
+alive	: sống, vẫn còn sống, còn tồn tại
+all	: tất cả
+all right	: tốt, ổn, khỏe mạnh; được
+allied	: lien minh, đồng minh, thông
+allow	: cho phép, để cho
+ally	: nước đồng minh, liên minh; liên kết, kết thông gia
+alone	: cô đơn, một mình
+along	: dọc theo, theo; theo chiều dài, suốt theo
+alongside	: sát cạnh, kế bên, dọc theo
+aloud	: lớn tiếng, to tiếng
+alphabet	: bảng chữ cái, bước đầu, điều cơ bản
+alphabetical	: thuộc bảng chứ cái
+alphabetically	: theo thứ tự abc
+already	: đã, rồi, đã… rồi
+also	: cũng, cũng vậy, cũng thế
+alter	: thay đổi, biến đổi, sửa đổi
+alternative	: sự lựa chọn; lựa chọn
+although	: mặc dù, dẫu cho
+altogether	: hoàn toàn, hầu như; nói chung
+always	: luôn luôn
+amaze	: làm ngạc nhiên, làm sửng sốt
+amazed	: kinh ngạc, sửng sốt
+amazing	: kinh ngạc, sửng sốt
+ambition	: hoài bão, khát vọng
+ambulance	: xe cứu thương, xe cấp cứu
+among	: giữa, ở giữa
+amount	: số lượng, số nhiều; lên tới
+amuse	: làm cho vui, thích, làm buồn cười
+amused	: vui thích
+amusing	: vui thích
+analyse	: phân tích
+analysis	: sự phân tích
+ancient	: xưa, cổ
+and	: và
+anger	: sự tức giận, sự giận dữ
+angle	: góc
+angrily	: tức giận, giận dữ
+angry	: giận, tức giận
+animal	: động vật, thú vật
+ankle	: mắt cá chân
+anniversary	: ngày, lễ kỉ niệm
+announce	: báo, thông báo
+annoy	: chọc tức, làm bực mình; làm phiền, quẫy nhiễu
+annoyed	: bị khó chịu, bực mình, bị quấy rầy
+annoying	: chọc tức, làm bực mình; làm phiền, quẫy nhiễu
+annual	: hàng năm, từng năm
+annually	: hàng năm, từng năm
+another	: khác
+answer	: sự trả lời; trả lời
+anti- prefix	: chống lại
+anticipate	: thấy trước, chặn trước, lường trước
+anxiety	: mối lo âu, sự lo lắng
+anxious	: lo âu, lo lắng, băn khoăn
+anxiously	: lo âu, lo lắng, băn khoăn
+any	: một người, vật nào đó; bất cứ; một chút nào, tí nào
+anyone	: người nào, bất cứ ai
+anything	: việc gì, vật gì; bất cứ việc gì, vật gì
+anyway	: thế nào cũng được, dù sao chăng nữa
+anywhere	: bất cứ chỗ nào, bất cứ nơi đâu
+apart	: về một bên, qua một bên
+apart from	: ngoài… ra
+apartment	: căn phòng, căn buồng
+apologize	: xin lỗi, tạ lỗi
+apparent	: rõ ràng, rành mạch; bề ngoài, có vẻ
+apparently	: nhìn bên ngoài, hình như
+appeal	: sự kêu gọi, lời kêu gọi; kêu gọi, cầu khẩn
+appear	: xuất hiện, hiện ra, trình diện
+appearance	: sự xuất hiện, sự trình diện
+apple	: quả táo
+application	: sự gắn vào, vật gắn vào; sự chuyên cần, chuyên tâm
+apply	: gắn vào, ghép vào, áp dụng vào
+appoint	: bổ nhiệm, chỉ định, chọn
+appointment	: sự bổ nhiệm, người được bổ nhiệm
+appreciate	: thấy rõ; nhận thức
+approach	: đến gần, lại gần; sự đến gần, sự lại gần
+appropriate	: thích hợp, thích đáng
+approval	: sự tán thành, đồng ý, sự chấp thuận
+approve	: tán thành, đồng ý, chấp thuận
+approving	: tán thành, đồng ý, chấp thuận
+approximate	: giống với, giống hệt với
+approximately	: khoảng chừng, độ chừng
+april	: tháng tư
+area	: diện tích, bề mặt
+argue	: chứng tỏ, chỉ rõ
+argument	: lý lẽ
+arise	: xuất hiện, nảy ra, nảy sinh ra
+arm	: cánh tay; vũ trang, trang bị
+armed	: vũ trang
+arms	: vũ khí, binh giới, binh khí
+army	: quân đội
+around	: xung quanh, vòng quanh
+arrange	: sắp xếp, sắp đặt, sửa soạn
+arrangement	: sự sắp xếp, sắp đặt, sự sửa soạn
+arrest	: bắt giữ, sự bắt giữ
+arrival	: sự đến, sự tới nơi
+arrow	: tên, mũi tên
+art	: nghệ thuật, mỹ thuật
+article	: bài báo, đề mục
+artificial	: nhân tạo
+artificially	: nhân tạo
+artist	: nghệ sĩ
+artistic	: thuộc nghệ thuật, thuộc mỹ thuật
+as	: như
+as soon as	: ngay khi
+as well	: cũng, cũng như
+ashamed	: ngượng, xấu hổ
+aside	: về một bên, sang một bên
+aside from	: ngoài ra, trừ ra
+ask	: hỏi
+asleep	: ngủ, đang ngủ
+aspect	: vẻ bề ngoài, diện mạo
+assist	: giúp, giúp đỡ; tham dự, có mặt
+assistance	: sự giúp đỡ
+assistant	: người giúp đỡ, người phụ tá; giúp đỡ, phụ tá
+associate	: kết giao, liên kết, kết hợp, cho cộng tác
+associated with	: liên kết với
+association	: sự kết hợp, sự liên kết
+assume	: mang, khoác, có, lấy
+assure	: đảm bảo, cam đoan
+at	: 423
+at first	: trực tiếp
+at least	: ít ra, ít nhất, chí ít
+atmosphere	: khí quyển
+atom	: nguyên tử
+attach	: gắn, dán, trói, buộc
+attached	: gắn bó
+attack	: sự tấn công, sự công kích; tấn công, công kích
+attempt	: sự cố gắng, sự thử; cố gắng, thử
+attempted	: cố gắng, thử
+attend	: dự, có mặt
+attention	: sự chú ý
+attitude	: thái độ, quan điểm
+attorney	: người được ủy quyền
+attract	: hút; thu hút, hấp dẫn
+attraction	: sự hút, sức hút
+attractive	: hút, thu hút, có duyên, lôi cuốn
+audience	: thính, khan giả
+august	: tháng tám
+aunt	: cô, dì
+author	: tác giả
+authority	: uy quyền, quyền lực
+automatic	: tự động
+autumn	: mùa thu
+available	: có thể dùng được, có giá trị, hiệu lực
+average	: trung bình, số trung bình, mức trung bình
+avoid	: tránh, tránh xa
+awake	: đánh thức, làm thức dậy
+award	: phần thưởng; tặng, thưởng
+aware	: biết, nhận thức, nhận thức thấy
+away	: xa, xa cách, rời xa, đi xa
+awful	: oai nghiêm, dễ sợ
+awkward	: vụng về, lung túng
+back	: lưng, về phía sau, trở lại
+background	: phía sau; nền
+backward	: về phía sau, lùi lại
+bacteria	: vi khuẩn
+bad	: xấu, tồi
+bad-tempered	: xấu tính, dễ nổi cáu
+badly	: xấu, tồi
+bag	: bao, túi, cặp xách
+baggage	: hành lý
+bake	: nung, nướng bằng lò
+balance	: cái cân; làm cho cân bằng, tương xứng
+ball	: quả bóng
+ban	: cấm, cấm chỉ; sự cấm
+band	: băng, đai, nẹp
+bandage	: dải băng; băng bó
+bank	: bờ  , đê
+bar	: quán bán rượu
+bargain	: sự mặc cả, sự giao kèo mua bán
+barrier	: đặt chướng ngại vật
+base	: cơ sở, cơ bản, nền móng; đặt tên, đặt cơ sở trên cái gì
+basic	: cơ bản, cơ sở
+basically	: cơ bản, về cơ bản
+basis	: nền tảng, cơ sở
+bath	: sự tắm
+bathroom	: buồng tắm, nhà vệ sinh
+battery	: pin, ắc quy
+battle	: trận đánh, chiến thuật
+bay	: gian ; bays
+be going to	: sắp sửa, có ý định
+be sick	: bị ốm
+beach	: bãi biển
+beak	: mỏ chim
+bear	: mang, cầm, vác, đeo, ôm
+beard	: râu
+beat	: tiếng đập, sự đập; đánh đập, đấm
+beautiful	: đẹp
+beautifully	: tốt đẹp, đáng hài lòng
+beauty	: vẻ đẹp, cái đẹp; người đẹp
+because	: bởi vì, vìbecause of prep. vì, do bởi
+become	: trở thành, trở nên
+bed	: cái giường
+bedroom	: phòng ngủ
+beef	: thịt bò
+beer	: rượu bia
+before	: trước, đằng trước
+begin	: bắt đầu, khởi đầu
+beginning	: phần đầu, lúc bắt đầu, lúc khởi đầu
+behalf	: sự thay mặt
+behave	: đối xử, ăn ở, cư xử
+behind	: sau, ở đằng sau
+belief	: lòng tin, đức tin, sự tin tưởng
+believe	: tin, tin tưởng
+bell	: cái chuông, tiếng chuông
+belong	: thuộc về, của, thuộc quyền sở hữu
+below	: ở dưới, dưới thấp, phía dưới
+belt	: dây lưng, thắt lưng
+bend	: chỗ rẽ, chỗ uốn; khuỷu tay; cúi xuống, uốn cong
+beneath	: ở dưới, dưới thấp
+benefit	: lợi, lợi ích; giúp ích, làm lợi cho
+bent	: khiếu, sở thích, khuynh hướng
+beside	: bên cạnh, so với
+bet	: đánh cuộc, cá cược; sự đánh cuộc
+betting	: sự đánh cuộc
+between	: giữa, ở giữa
+beyond	: ở xa, phía bên kia
+bicycle	: xe đạp
+bid	: đặt giá, trả giá; sự đặt giá, sự trả giá
+big	: to, lớn
+bill	: hóa đơn, giấy bạc
+bin	: thùng, thùng đựng rượu
+biology	: sinh vật học
+bird	: chim
+birth	: sự ra đời, sự sinh đẻ
+birthday	: ngày sinh, sinh nhật
+biscuit	: bánh quy
+bit	: miếng, mảnh
+bite	: cắn, ngoạm; sự cắn, sự ngoạm
+bitter	: đắng; đắng cay, chua xót
+bitterly	: đắng, đắng cay, chua xót
+black	: đen; màu đen
+blade	: lưỡi
+blame	: khiển trách, mắng trách; sự khiển trách, sự mắng trách
+blank	: trống, để trắng; sự trống rỗng
+blankly	: ngây ra, không có thần
+blind	: đui, mù
+block	: khối, tảng ; làm ngăn cản, ngăn chặn
+blonde	: hoe vàng, mái tóc hoe vàng
+blood	: máu, huyết; sự tàn sát, chem giết
+blow	: nở hoa; sự nở hoa
+blue	: xanh, màu xanh
+board	: tấm ván; lát ván, lót ván
+boat	: tàu, thuyền
+body	: thân thể, thân xác
+boil	: sôi, luộc
+bomb	: quả bom; oánh bom, thả bom
+bone	: xương
+book	: sách; ghi chép
+boot	: giày ống
+border	: bờ, mép, vỉa, lề
+bore	: buồn chán, buồn tẻ
+boring	: buồn chán
+born	: be born
+borrow	: vay, mượn
+boss	: ông chủ, thủ trưởng
+both	: cả hai
+bother	: làm phiền, quấy rầy, làm bực mình
+bottle	: chai, lọ
+bottom	: phần dưới cùng, thấp nhất; cuối, cuối cùng
+bound	: nhất định, chắc chắn
+bowl	: cái bát
+box	: hộp, thùng
+boy	: con trai, thiếu niên
+boyfriend	: bạn trai
+brain	: óc não; đầu óc, trí não
+branch	: ngành; nhành cây, nhánh song, ngả đường
+brand	: nhãn
+brave	: gan dạ, can đảm
+bread	: bánh mỳ
+break	: bẻ gãy, đập vỡ; sự gãy, sự vỡ
+breakfast	: bữa điểm tâm, bữa sáng
+breast	: ngực, vú
+breath	: hơi thở, hơi
+breathe	: hít, thở
+breathing	: sự hô hấp, sự thở
+breed	: nuôi dưỡng, chăm sóc, giáo dục; sinh đẻ; nòi giống
+brick	: gạch
+bridge	: cái cầu
+brief	: ngắn, gọn, vắn tắt
+briefly	: ngắn, gọn, vắn tắt, tóm tắt
+bright	: sáng, sáng chói
+brightly	: sáng chói, tươi
+brilliant	: tỏa sáng, rực rỡ, chói lọi
+bring	: mang, cầm , xách lại
+broad	: rộng
+broadcast	: tung ra khắp nơi,truyền rộng rãi; phát thanh, quảng bá
+broadly	: rộng, rộng rãi
+broken	: bị gãy, bị vỡ
+brother	: anh, em trai
+brown	: nâu, màu nâu
+brush	: bàn chải; chải, quét
+bubble	: bong bóng, bọt, tăm
+budget	: ngân sách
+build	: xây dựng
+building	: sự xây dựng, công trình xây dựng; tòa nhà binđinh
+bullet	: đạn
+bunch	: búi, chùm, bó, cụm, buồng; bầy, đàn
+burn	: đốt, đốt cháy, thắp, nung, thiêu
+burnt	: bị đốt, bị cháy, khê; rám nắng, sạm
+burst	: nổ, nổ tung ; háo hức
+bury	: chôn cất, mai táng
+bus	: xe buýt
+bush	: bụi cây, bụi rậm
+business	: việc buôn bán, thương mại, kinh doanh
+busy	: bận, bận rộn
+but	: nhưng
+butter	: bơ
+button	: cái nút, cái khuy, cúc
+buy	: mua
+buyer	: người mua
+by	: bởi, bằng
+by means of	: bằng phương tiện
+bye exclamation	: tạm biệt
+cabinet	: tủ có nhiều ngăn đựng đồ
+cable	: dây cáp
+cake	: bánh ngọt
+calculate	: tính toán
+calculation	: sự tính toán
+call	: gọi; tiếng kêu, tiếng gọi
+calm	: yên lặng, làm dịu đi; sự yên lặng, sự êm ả
+calmly	: yên lặng, êm ả; bình tĩnh, điềm tĩnh
+camera	: máy ảnh
+camp	: trại, chỗ cắm trại; cắm trại, hạ trại
+campaign	: chiến dịch, cuộc vận động
+camping	: sự cắm trại
+can modal	: có thể; nhà tù, nhà giam, bình, ca đựng
+cancel	: hủy bỏ, xóa bỏ
+cancer	: bệnh ung thư
+candidate	: người ứng cử, thí sinh, người dự thi
+candy	: kẹo
+cannot	: không thể
+cap	: mũ lưỡi trai, mũ vải
+capable	: có tài, có năng lực; có khả năng, cả gan
+capacity	: năng lực, khả năng tiếp thu, năng suất
+capital	: thủ đô, tiền vốn; chủ yếu, chính yếu, cơ bản
+captain	: người cầm đầu, người chỉ huy, thủ lĩnh
+capture	: bắt giữ, bắt; sự bắt giữ, sự bị bắt
+car	: xe hơi
+card	: thẻ, thiếp
+cardboard	: bìa cứng, các tông
+care	: sự chăm sóc, chăm nom; chăm sóc
+career	: nghề nghiệp, sự nghiệp
+careful	: cẩn thận, cẩn trọng, biết giữ gìn
+carefully	: cẩn thận, chu đáo
+careless	: sơ suất, cầu thả
+carpet	: tấm thảm, thảm
+carrot	: củ cà rốt
+carry	: mang, vác, khuân chở
+case	: vỏ, ngăn, túi
+cash	: tiền, tiền mặt
+cast	: quăng, ném, thả, đánh gục; sự quăng, sự ném
+castle	: thành trì, thành quách
+cat	: con mèo
+catch	: bắt lấy, nắm lấy, tóm lấy, chộp lấy
+category	: hạng, loại; phạm trù
+cause	: nguyên nhân, nguyên do; gây ra, gây nên
+cease	: dừng, ngừng, ngớt, thôi, hết, tạnh
+ceiling	: trần nhà
+celebrate	: kỷ niệm, làm lễ kỷ niệm; tán dương, ca tụng
+celebration	: sự kỷ niệm, lễ kỷ niệm; sự tán dương, sự ca tụng
+cell	: ô, ngăn
+cellphone	: điện thoại di động
+cent	: đồng xu
+centimetre	: xen ti met
+central	: trung tâm, ở giữa, trung ương
+centre	: điểm giữa, trung tâm, trung ương
+century	: thế kỷ
+ceremony	: nghi thức, nghi lễ
+certain	: chắc chắn
+certainly	: chắc chắn, nhất định
+certificate	: giấy chứng nhận, bằng, chứng chỉ
+chain	: dây, xích; xính lại, trói lại
+chair	: ghế
+chairman, chairwoman	: chủ tịch, chủ tọa
+challenge	: sự thử thách, sự thách thức; thách thức, thử thách
+chamber	: buồng, phòng, buồng ngủ
+chance	: sự may mắn
+change	: thay đổi, sự thay đổi, sự biến đổi
+channel	: kênh , eo biển
+chapter	: chương
+character	: tính cách, đặc tính, nhân vật
+characteristic	: riêng, riêng biệt, đặc trưng, đặc tính, đặc điểm
+charge	: nhiệm vụ, bổn phận, trách nhiệm; giao nhiệm vụ, giao việc
+charity	: lòng từ thiện, lòng nhân đức; sự bố thí
+chart	: đồ thị, biểu đồ; vẽ đồ thị, lập biểu đồ
+chase	: săn bắt; sự săn bắt
+chat	: nói chuyện, tán gẫu; chuyện phiếm, chuyện gẫu
+cheap	: rẻ
+cheaply	: rẻ, rẻ tiền
+cheat	: lừa, lừa đảo; trò lừa đảo, trò gian lận
+check	: kiểm tra; sự kiểm tra
+cheek	: má
+cheerful	: vui mừng, phấn khởi, hồ hởi
+cheerfully	: vui vẻ, phấn khởi
+cheese	: pho mát
+chemical	: thuộc hóa học; chất hóa học, hóa chất
+chemist	: nhà hóa học
+chemist’s	: hóa học, môn hóa học, ngành hóa học
+cheque	: séc
+chest	: tủ, rương, hòm
+chew	: nhai, ngẫm nghĩ
+chicken	: gà, gà con, thịt gà
+chief	: trọng yếu, chính yếu; thủ lĩnh, lãnh tụ, người đứng đầu, xếp
+child	: đứa bé, đứa trẻ
+chin	: cằm
+chip	: vỏ bào, mảnh vỡ, chỗ sứt, mẻ
+chocolate	: sô cô la
+choice	: sự lựa chọn
+choose	: chọn, lựa chọn
+chop	: chặt, đốn, chẻ
+church	: nhà thờ
+chỉ huycomment	: lời bình luận, lời chú giải; bình luận, phê bình, chú thích,
+cigarette	: điếu thuốc lá
+circle	: đường tròn, hình tròn
+circumstance	: hoàn cảnh, trường hợp, tình huống
+citizen	: người thành thị
+city	: thành phố
+civil	: công dân
+claim	: đòi hỏi, yêu sách; sự đòi hỏi, sự yêu sách, sự thỉnh cầu
+clap	: vỗ, vỗ tay; tiếng nổ, tiếng vỗ tay
+class	: lớp học
+classic	: cổ điển, kinh điển
+classroom	: lớp học, phòng học
+clean	: sạch, sạch sẽ;
+clearly	: rõ ràng, sáng sủa
+clerk	: thư ký, linh mục, mục sư
+clever	: lanh lợi, thông minh. tài giỏi, khéo léo
+click	: làm thành tiếng lách cách; tiếng lách cách, cú nhắp
+client	: khách hàng
+climate	: khí hậu, thời tiết
+climb	: leo, trèo
+climbing	: sự leo trèo
+clock	: đồng hồ
+close	: đóng kín, chật chội, che đậy
+closed	: bảo thủ, không cởi mở, khép kín
+closely	: chặt chẽ, kỹ lưỡng, tỉ mỉ
+closet	: buồng, phòng để đồ, phòng kho
+cloth	: vải, khăn trải bàn, áo thầy tu
+clothes	: quần áo
+clothing	: quần áo, y phục
+cloud	: mây, đám mây
+club	: câu lạc bộ; gậy, dùi cui
+coach	: huấn luyện viên
+coal	: than đá
+coast	: sự lao dốc; bờ biển
+coat	: áo choàng
+code	: mật mã, luật, điều lệ
+coffee	: cà phê
+coin	: tiền kim loại
+cold	: lạnh, sự lạnh lẽo, lạnh nhạt
+coldly	: lạnh nhạt, hờ hững, vô tâm
+collapse	: đổ, sụp đổ; sự đổ nát, sự sụp đổ
+colleague	: bạn đồng nghiệp
+collect	: sưu tập, tập trung lại
+collection	: sự sưu tập, sự tụ họp
+college	: trường cao đẳng, trường đại học
+colour	: màu sắc; tô màu
+coloured	: mang màu sắc, có màu sắc
+column	: cột , mục
+combination	: sự kết hợp, sự phối hợp
+combine	: kết hợp, phối hợp
+come	: đến, tới, đi đến, đi tới
+comedy	: hài kịch
+comfort	: sự an ủi, khuyên giải, lời động viên, sự an nhàn; dỗ dành, an
+comfortable	: thoải mái, tiện nghi, đầy đủ
+comfortably	: dễ chịu, thoải mái, tiện nghi, ấm cúng
+command	: ra lệnh, chỉ huy; lệnh, mệnh lệnh, quyền ra lệnh, quyền
+commercial	: buôn bán, thương mại
+commission	: hội đồng, ủy ban, sự ủy nhiệm, sự ủy thác; ủy nhiệm, ủy
+commit	: giao, gửi, ủy nhiệm, ủy thác; tống giam, bỏ tù
+commitment	: sự phạm tội, sự tận tụy, tận tâm
+committee	: ủy ban
+common	: công, công cộng, thông thường, phổ biến
+commonly	: thông thường, bình thường
+communicate	: truyền, truyền đạt; giao thiệp, liên lạc
+communication	: sự giao tiếp, liên lạc, sự truyền đạt, truyền tin
+community	: dân chúng, nhân dân
+company	: công ty
+compare	: so sánh, đối chiếu
+comparison	: sự so sánh
+compete	: đua tranh, ganh đua, cạnh tranh
+competition	: sự cạnh tranh, cuộc thi, cuộc thi đấu
+competitive	: cạnh tranh, đua tranh
+complain	: phàn nàn, kêu ca
+complaint	: lời than phiền, than thở; sự khiếu nại, đơn kiện
+complete	: hoàn thành, xong;
+completely	: hoàn thành, đầy đủ, trọn vẹn
+complex	: phức tạp, rắc rối
+complicate	: làm phức tạp, rắc rối
+complicated	: phức tạp, rắc rối
+computer	: máy tính
+concentrate	: tập trung
+concentration	: sự tập trung, nơi tập trung
+concept	: khái niệm
+concern	: liên quan, dính líu tới; sự liên quan, sự dính líu tới
+concerned	: có liên quan, có dính líu
+concerning	: bâng khuâng, ái ngại
+concert	: buổi hòa nhạc
+conclude	: kết luận, kết thúc, chấm dứt
+conclusion	: sự kết thúc, sự kết luận, phần kết luận
+concrete	: bằng bê tông; bê tông
+condition	: điều kiện, tình cảnh, tình thế
+conduct	: điều khiển, chỉ đạo, chỉ huy; sự điều khiển, chỉ
+conference	: hội nghị, sự bàn bạc
+confidence	: lòng tin tưởng, sự tin cậy
+confident	: tin tưởng, tin cậy, tự tin
+confidently	: tự tin
+confine	: giam giữ, hạn chế
+confined	: hạn chế, giới hạn
+confirm	: xác nhận, chứng thực
+conflict	: xung đột, va chạm; sự xung đột, sự va chạm
+confront	: đối mặt, đối diện, đối chiếu
+confused	: bối rối, lúng túng, ngượng
+confusing	: khó hiểu, gây bối rối
+confusion	: sự lộn xộn, sự rối loạn
+congratulations	: sự chúc mừng, khen ngợi; lời chúc mừng, khen
+congress	: đại hội, hội nghị, quốc hội
+connect	: kết nối, nối
+connection	: sự kết nối, sự giao kết
+conscious	: tỉnh táo, có ý thức, biết rõ
+consequence	: kết quả, hậu quả
+conservative	: thận trọng, dè dặt, bảo thủ
+consider	: cân nhắc, xem xét; để ý, quan tâm, lưu ý đến
+considerable	: lớn lao, to tát, đáng kể
+considerably	: đáng kể, lớn lao, nhiều
+consideration	: sự cân nhắc, sự xem xét, sự để ý, sự quan tâm
+consist of	: gồm có
+constant	: kiên trì, bền lòng
+constantly	: kiên định
+construct	: xây dựng
+construction	: sự xây dựng
+consult	: tra cứu, tham khảo, thăm dò, hỏi ý kiến
+consumer	: người tiêu dùng
+contact	: sự liên lạc, sự giao thiệp; tiếp xúc
+contain	: bao hàm, chứa đựng, bao gồm
+container	: cái đựng, chứa; công te nơ
+contemporary	: đương thời, đương đại
+content	: nội dung, sự hài lòng
+contest	: cuộc thi, trận đấu, cuộc tranh luận, cuộc chiến đấu, chiến tranh
+context	: văn cảnh, khung cảnh, phạm vi
+continent	: lục địa, đại lục
+continue	: tiếp tục, làm tiếp
+continuous	: liên tục, liên tiếp
+continuously	: liên tục, liên tiếp
+contract	: hợp đồng, sự ký hợp đồng; ký kết
+contrast	: sự tương phản; làm tương phản, làm trái
+contrasting	: tương phản
+contribute	: đóng góp, ghóp phần
+contribution	: sự đóng góp, sự góp phần
+controlled	: được điều khiển, được kiểm tra
+convenient	: tiện lợi, thuận lợi, thích hợp
+convention	: hội nghị, hiệp định, quy ước
+conventional	: quy ước
+conversation	: cuộc đàm thoại, cuộc trò chuyện
+convert	: đổi, biến đổi
+convince	: làm cho tin, thuyết phục; làm cho nhận thức thấy
+cook	: nấu ăn, người nấu ăn
+cooker	: lò, bếp, nồi nấu
+cookie	: bánh quy
+cooking	: sự nấu ăn, cách nấu ăn
+cool	: mát mẻ, điềm tĩnh; làm mát,
+cope	: đối phó, đương đầu
+copy	: bản sao, bản chép lại; sự sao chép; sao chép, bắt chước
+core	: nòng cốt, hạt nhân; đáy lòng
+corner	: góc
+correct	: đúng, chính xác; sửa, sửa chữa
+correctly	: đúng, chính xác
+cost	: giá, chi phí; trả giá, phải trả
+cottage	: nhà tranh
+cotton	: bông, chỉ, sợi
+cough	: ho, sự ho, tiếng hoa
+coughing	: ho
+could	: có thể, có khả năng
+could modal	: có thể
+council	: hội đồng
+count	: đếm, tính
+counter	: quầy hàng, quầy thu tiền, máy đếm
+country	: nước, quốc gia, đất nước
+countryside	: miền quê, miền nông thôn
+county	: hạt, tỉnh
+couple	: đôi, cặp; đôi vợ chồng, cặp nam nữ
+courage	: sự can đảm, sự dũng cảm, dũng khí
+course	: tiến trình, quá trình diễn tiến; sân chạy đua
+court	: sân, sân , tòa án, quan tòa, phiên tòa
+cousin	: anh em họ
+cover	: bao bọc, che phủ; vỏ, vỏ bọc
+covered	: có mái che, kín đáo
+covering	: sự bao bọc, sự che phủ, cái bao, bọc
+cow	: con bò cái
+crack	: cừ, xuất sắc; làm nứt, làm vỡ, nứt nẻ, rạn nứt
+cracked	: rạn, nứt
+craft	: nghề, nghề thủ công
+crash	: vải thô; sự rơi , sự phá sản, sụp đổ; phá tan tành, phá vụn
+crazy	: điên, mất trí
+cream	: kem
+create	: sáng tạo, tạo nên
+creature	: sinh vật, loài vật
+credit	: sự tin, lòng tin, danh tiếng; tiền gửi ngân hàng
+credit card	: thẻ tín dụng
+crime	: tội, tội ác, tội phạm
+criminal	: có tội, phạm tội; kẻ phạm tội, tội phạm
+crisis	: sự khủng hoảng, cơn khủng hoảng
+crisp	: giòn
+criterion	: tiêu chuẩn
+critical	: phê bình, phê phán; khó tính
+criticism	: sự phê bình, sự phê phán, lời phê bình, lời phê phán
+criticize	: phê bình, phê phán, chỉ trích
+crop	: vụ mùa
+cross	: cây thánh giá, nỗi thống khổ; sự băng qua; băng qua, vượt qua
+crowd	: đám đông
+crowded	: đông đúc
+crown	: vương miện, vua, ngai vàng; đỉnh cao nhất
+crucial	: quyết định, cốt yếu, chủ yếu
+cruel	: độc ác, dữ tợn, tàn nhẫn
+crush	: ép, vắt, đè nát, đè bẹp
+cry	: khóc, kêu la; sự khóc, tiếng khóc, sự kêu la
+cultural	: văn hóa
+culture	: văn hóa, sự mở mang, sự giáo dục
+cup	: tách, chén
+cupboard	: 1 loại tủ có ngăn
+curb	: kiềm chế, nén lại, hạn chế
+cure	: chữa trị, điều trị; cách chữa bệnh, cách điều trị; thuốc
+curious	: ham muốn, tò mò, lạ lùng
+curiously	: tò mò, hiếu kỳ, lạ kỳ
+curl	: quăn, xoắn, uốn quăn, làm xoắn; sự uốn quăn
+curly	: quăn, xoắn
+current	: hiện hành, phổ biến, hiện nay; dòng
+currently	: hiện thời, hiện nay
+curtain	: màn
+curve	: đường cong, đường vòng; cong, uốn cong, bẻ cong
+curved	: cong
+custom	: phong tục, tục lệ, thói quen, tập quán
+customer	: khách hàng
+customs	: thuế nhập khẩu, hải quan
+cut	: cắt, chặt; sự cắt
+cycle	: chu kỳ, chu trình, vòng; quay vòng theo chu kỳ, đi xe đạp
+cycling	: sự đi xe đạp
+dad	: bố, cha
+dadd	: chah
+daily	: hàng ngày
+damage	: mối hạn, điều hại, sự thiệt hại; làm hư hại, làm hỏng, gây thiệt hại
+damp	: ẩm, ẩm ướt, ẩm thấp
+dance	: sự nhảy múa, sự khiêu vũ; nhảy múa, khiêu vũ
+dancer	: diễn viên múa, người nhảy múa
+dancing	: sự nhảy múa, sự khiêu vũ
+danger	: sự nguy hiểm, mối hiểm nghèo; nguy cơ, mối đe dọa
+dangerous	: nguy hiểm
+dare	: dám, dám đương đầu với; thách
+dark	: tối, tối tăm; bóng tối, ám muội
+data	: số liệu, dữ liệu
+date	: ngày, kỳ, kỳ hạn, thời kỳ, thời đại; đề ngày tháng, ghi niên hiệu
+daughter	: con gái
+day	: ngày, ban ngày
+dead	: chết, tắt
+deaf	: điếc, làm thinh, làm ngơ
+deal	: phân phát, phân phối; sự giao dịch, thỏa thuận mua bán
+deal with	: giải quyết
+dear	: thân, thân yêu, thân mến; kính thưa, thưa
+death	: sự chết, cái chết
+debate	: cuộc tranh luận, cuộc tranh cãi; tranh luận, bàn cãi
+debt	: nợ
+decade	: thập kỷ, bộ mười, nhóm mười
+decay	: tình trạng suy tàn, suy sụp, tình trạng đổ nát
+december	: tháng mười hai, tháng chạp
+decide	: quyết định, giải quyết, phân xử
+decision	: sự quyết định, sự giải quyết, sự phân xử
+declare	: tuyên bố, công bố
+decline	: sự suy tàn, sự suy sụp; suy sụp, suy tàn
+decorate	: trang hoàng, trang trí
+decoration	: sự trang hoàng, đồ trang hoàng, trang trí
+decorative	: để trang hoàng, để trang trí, để làm cảnh
+decrease	: giảm bớt, làm suy giảm, sự giảm đi, sự giảm sút
+deep	: sâu, khó lường, bí ẩn
+deeply	: sâu, sâu xa, sâu sắc
+defeat	: đánh thắng, đánh bại; sự thất bại
+defence	: cái để bảo vệ, vật để chống đỡ, sự che chở
+defend	: che chở, bảo vệ, bào chữa
+define	: định nghĩa
+definite	: xác định, định rõ, rõ ràng
+definitely	: rạch ròi, dứt khoát
+definition	: sự định nghĩa, lời định nghĩa
+degree	: mức độ, trình độ; bằng cấp; độ
+delay	: sự chậm trễ, sự trì hoãn, sự cản trở; làm chậm trễ
+deliberate	: thận trọng, có tính toán, chủ tâm, có suy nghĩ cân nhắc
+deliberately	: thận trọng, có suy nghĩ cân nhắc
+delicate	: thanh nhã, thanh tú, tế nhị, khó xử
+delight	: sự vui thích, sự vui sướng, điều thích thú; làm vui thích, làm say
+delighted	: vui mừng, hài lòng
+deliver	: cứu khỏi, thoát khỏi, bày tỏ, giãi bày
+delivery	: sự phân phát, sự phân phối, sự giao hàng; sự bày tỏ, phát biếu
